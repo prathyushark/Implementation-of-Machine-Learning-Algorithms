@@ -1,0 +1,157 @@
+> source('D:/Honey/R/MLAssignment5/Main.r')
+Decision Tree Sample  =  1 , accuracy=  91.66666667 precision is :  100 88.88888889 87.5 100 80 100 
+Perceptron model Sample :  1  accuracy=  50 precision is :  100 33.33333333 0 0 0 0 
+NeuralNet model Sample :  1  accuracy=  63.88888889 precision is :  100 77.77777778 100 33.33333333 0 0 
+DeepLearning model Sample :  1  accuracy=  63.88888889 precision is :  100 55.55555556 0 0 0 0 
+SVM Model - Sample 1  accuracy=  27.77777778 precision is :  11.11111111 100 0 33.33333333 180 0 
+Naive Bayesian Sample  1 , accuracy=  86.11111111 precision is :  100 44.44444444 100 100 100 100 
+Logistic Regression Sample  1  accuracy=  97.22222222 precision is :  1 0 1.125 0 1.8 0 
+kNN Model Sample  1  accuracy=  97.22222222 
+Bagging Sample  1  accuracy=  75 
+Random Forest Model Sample  1  accuracy=  97.22222222 
+Ada boosting Model Sample  1  accuracy=  97.22222222 
+Gradient Boosting Model Sample  1  accuracy=  36.11111111 
+Decision Tree Sample  =  2 , accuracy=  88.88888889 precision is :  200 176.3888889 187.5 183.3333333 180 133.3333333 
+Perceptron model Sample :  2  accuracy=  47.22222222 precision is :  200 45.83333333 0 33.33333333 0 0 
+NeuralNet model Sample :  2  accuracy=  52.77777778 precision is :  200 127.7777778 100 33.33333333 0 0 
+DeepLearning model Sample :  2  accuracy=  52.77777778 precision is :  200 80.55555556 0 0 0 0 
+SVM Model - Sample 2  accuracy=  25 precision is :  23.61111111 200 0 50 340 0 
+Naive Bayesian Sample  2 , accuracy=  77.77777778 precision is :  200 44.44444444 200 200 200 200 
+Logistic Regression Sample  2  accuracy=  88.88888889 precision is :  2 0.25 2.458333333 0.3333333333 3.4 0.6666666667 
+kNN Model Sample  2  accuracy=  94.44444444 
+Bagging Sample  2  accuracy=  72.22222222 
+Random Forest Model Sample  2  accuracy=  100 
+Ada boosting Model Sample  2  accuracy=  97.22222222 
+Gradient Boosting Model Sample  2  accuracy=  38.88888889 
+Decision Tree Sample  =  3 , accuracy=  97.22222222 precision is :  300 276.3888889 267.5 283.3333333 280 233.3333333 
+Perceptron model Sample :  3  accuracy=  50 precision is :  283.3333333 65.83333333 0 33.33333333 0 0 
+NeuralNet model Sample :  3  accuracy=  66.66666667 precision is :  275 147.7777778 100 33.33333333 0 0 
+DeepLearning model Sample :  3  accuracy=  13.88888889 precision is :  300 200.5555556 240 400 240 1200 
+SVM Model - Sample 3  accuracy=  33.33333333 precision is :  123.6111111 200 240 50 580 0 
+Naive Bayesian Sample  3 , accuracy=  80.55555556 precision is :  300 74.44444444 300 300 300 300 
+Logistic Regression Sample  3  accuracy=  100 precision is :  3 0.25 4.858333333 0.3333333333 5.8 0.6666666667 
+kNN Model Sample  3  accuracy=  100 
+Bagging Sample  3  accuracy=  80.55555556 
+Random Forest Model Sample  3  accuracy=  100 
+Ada boosting Model Sample  3  accuracy=  97.22222222 
+Gradient Boosting Model Sample  3  accuracy=  88.88888889 
+Decision Tree Sample  =  4 , accuracy=  91.42857143 precision is :  400 359.7222222 345.2777778 383.3333333 380 333.3333333 
+Perceptron model Sample :  4  accuracy=  40 precision is :  383.3333333 82.5 11.11111111 33.33333333 0 0 
+NeuralNet model Sample :  4  accuracy=  74.28571429 precision is :  363.8888889 147.7777778 100 33.33333333 0 0 
+DeepLearning model Sample :  4  accuracy=  48.57142857 precision is :  355.5555556 200.5555556 240 400 240 1200 
+SVM Model - Sample 4  accuracy=  25.71428571 precision is :  223.6111111 200 340 50 730 0 
+Naive Bayesian Sample  4 , accuracy=  80 precision is :  377.7777778 91.11111111 400 400 400 400 
+Logistic Regression Sample  4  accuracy=  91.42857143 precision is :  3.888888889 0.5833333333 5.747222222 1 7.133333333 1.666666667 
+kNN Model Sample  4  accuracy=  100 
+Bagging Sample  4  accuracy=  80 
+Random Forest Model Sample  4  accuracy=  97.14285714 
+Ada boosting Model Sample  4  accuracy=  94.28571429 
+Gradient Boosting Model Sample  4  accuracy=  68.57142857 
+Decision Tree Sample  =  5 , accuracy=  100 precision is :  500 459.7222222 445.2777778 483.3333333 480 433.3333333 
+Perceptron model Sample :  5  accuracy=  52.77777778 precision is :  475.6410256 95 22.22222222 33.33333333 0 0 
+NeuralNet model Sample :  5  accuracy=  63.88888889 precision is :  425.4273504 160.2777778 100 33.33333333 0 0 
+DeepLearning model Sample :  5  accuracy=  72.22222222 precision is :  455.5555556 225.5555556 251.1111111 400 240 1200 
+SVM Model - Sample 5  accuracy=  36.11111111 precision is :  323.6111111 200 484.4444444 50 1380 0 
+Naive Bayesian Sample  5 , accuracy=  72.22222222 precision is :  462.3931624 91.11111111 500 500 500 500 
+Logistic Regression Sample  5  accuracy=  100 precision is :  4.888888889 0.5833333333 7.191666667 1 13.63333333 1.666666667 
+kNN Model Sample  5  accuracy=  94.44444444 
+Bagging Sample  5  accuracy=  55.55555556 
+Random Forest Model Sample  5  accuracy=  100 
+Ada boosting Model Sample  5  accuracy=  100 
+Gradient Boosting Model Sample  5  accuracy=  86.11111111 
+Decision Tree Sample  =  6 , accuracy=  100 precision is :  600 559.7222222 545.2777778 583.3333333 580 533.3333333 
+Perceptron model Sample :  6  accuracy=  50 precision is :  575.6410256 120 32.22222222 33.33333333 0 0 
+NeuralNet model Sample :  6  accuracy=  83.33333333 precision is :  525.4273504 172.7777778 100 33.33333333 0 0 
+DeepLearning model Sample :  6  accuracy=  72.22222222 precision is :  555.5555556 250.5555556 251.1111111 400 240 1200 
+SVM Model - Sample 6  accuracy=  30.55555556 precision is :  423.6111111 200 594.4444444 50 1600 0 
+Naive Bayesian Sample  6 , accuracy=  77.77777778 precision is :  562.3931624 91.11111111 600 600 600 600 
+Logistic Regression Sample  6  accuracy=  91.66666667 precision is :  5.888888889 0.5833333333 7.391666667 12 13.63333333 3.666666667 
+kNN Model Sample  6  accuracy=  100 
+Bagging Sample  6  accuracy=  80.55555556 
+Random Forest Model Sample  6  accuracy=  100 
+Ada boosting Model Sample  6  accuracy=  100 
+Gradient Boosting Model Sample  6  accuracy=  94.44444444 
+Decision Tree Sample  =  7 , accuracy=  100 precision is :  700 659.7222222 645.2777778 683.3333333 680 633.3333333 
+Perceptron model Sample :  7  accuracy=  57.14285714 precision is :  647.0695971 120 52.22222222 33.33333333 0 0 
+NeuralNet model Sample :  7  accuracy=  54.28571429 precision is :  596.8559219 172.7777778 100 33.33333333 0 0 
+DeepLearning model Sample :  7  accuracy=  65.71428571 precision is :  626.984127 325.5555556 251.1111111 400 240 1200 
+SVM Model - Sample 7  accuracy=  40 precision is :  523.6111111 200 874.4444444 50 1800 0 
+Naive Bayesian Sample  7 , accuracy=  91.42857143 precision is :  662.3931624 116.1111111 700 700 700 700 
+Logistic Regression Sample  7  accuracy=  88.57142857 precision is :  6.674603175 0.5833333333 9.591666667 12 15.2047619 3.666666667 
+kNN Model Sample  7  accuracy=  100 
+Bagging Sample  7  accuracy=  100 
+Random Forest Model Sample  7  accuracy=  100 
+Ada boosting Model Sample  7  accuracy=  100 
+Gradient Boosting Model Sample  7  accuracy=  85.71428571 
+Decision Tree Sample  =  8 , accuracy=  86.11111111 precision is :  800 739.7222222 745.2777778 758.3333333 713.3333333 733.3333333 
+Perceptron model Sample :  8  accuracy=  52.77777778 precision is :  747.0695971 120 102.2222222 100 0 100 
+NeuralNet model Sample :  8  accuracy=  55.55555556 precision is :  696.8559219 212.7777778 200 50 0 100 
+DeepLearning model Sample :  8  accuracy=  52.77777778 precision is :  726.984127 385.5555556 351.1111111 441.6666667 240 1300 
+SVM Model - Sample 8  accuracy=  27.77777778 precision is :  623.6111111 200 1041.111111 50 2133.333333 100 
+Naive Bayesian Sample  8 , accuracy=  77.77777778 precision is :  762.3931624 116.1111111 800 800 700 800 
+Logistic Regression Sample  8  accuracy=  94.44444444 precision is :  7.674603175 0.9833333333 11.25833333 12.16666667 18.53809524 4.666666667 
+kNN Model Sample  8  accuracy=  100 
+Bagging Sample  8  accuracy=  83.33333333 
+Random Forest Model Sample  8  accuracy=  86.11111111 
+Ada boosting Model Sample  8  accuracy=  91.66666667 
+Gradient Boosting Model Sample  8  accuracy=  66.66666667 
+Decision Tree Sample  =  9 , accuracy=  97.22222222 precision is :  900 739.7222222 745.2777778 758.3333333 813.3333333 733.3333333 
+Perceptron model Sample :  9  accuracy=  77.77777778 precision is :  847.0695971 200 152.2222222 100 100 180 
+NeuralNet model Sample :  9  accuracy=  88.88888889 precision is :  796.8559219 312.7777778 250 50 100 200 
+DeepLearning model Sample :  9  accuracy=  77.77777778 precision is :  826.984127 395.5555556 363.6111111 441.6666667 340 1310 
+SVM Model - Sample 9  accuracy=  38.88888889 precision is :  723.6111111 200 1053.611111 310 2233.333333 100 
+Naive Bayesian Sample  9 , accuracy=  36.11111111 precision is :  862.3931624 116.1111111 800 800 800 800 
+Logistic Regression Sample  9  accuracy=  88.88888889 precision is :  8.520757021 0.9833333333 12.13333333 14.36666667 19.38424908 4.666666667 
+kNN Model Sample  9  accuracy=  97.22222222 
+Bagging Sample  9  accuracy=  97.22222222 
+Random Forest Model Sample  9  accuracy=  36.11111111 
+Ada boosting Model Sample  9  accuracy=  97.22222222 
+Gradient Boosting Model Sample  9  accuracy=  77.77777778 
+Decision Tree Sample  =  10 , accuracy=  94.44444444 precision is :  1000 789.7222222 845.2777778 841.6666667 913.3333333 833.3333333 
+Perceptron model Sample :  10  accuracy=  72.22222222 precision is :  947.0695971 250 185.5555556 116.6666667 100 180 
+NeuralNet model Sample :  10  accuracy=  77.77777778 precision is :  896.8559219 362.7777778 250 66.66666667 100 200 
+DeepLearning model Sample :  10  accuracy=  66.66666667 precision is :  918.6507937 395.5555556 363.6111111 475 340 1310 
+SVM Model - Sample 10  accuracy=  33.33333333 precision is :  823.6111111 200 1453.611111 310 2383.333333 100 
+Naive Bayesian Sample  10 , accuracy=  91.66666667 precision is :  962.3931624 116.1111111 900 900 900 880 
+Logistic Regression Sample  10  accuracy=  91.66666667 precision is :  9.520757021 1.483333333 12.46666667 15.2 20.88424908 4.866666667 
+kNN Model Sample  10  accuracy=  94.44444444 
+Bagging Sample  10  accuracy=  75 
+Random Forest Model Sample  10  accuracy=  97.22222222 
+Ada boosting Model Sample  10  accuracy=  97.22222222 
+Gradient Boosting Model Sample  10  accuracy=  61.11111111 
+::::::::::::::::::: Average Accuracies :::::::::::::::::::: 
+Decision Tree :  94.6984127 
+Precision of Decision Tree  87.05555556 
+
+Perceptron :  54.99206349 
+precision of PErceptron   29.65486365 
+
+NEural NEt :  68.13492063 
+Precision of Neural Net  31.27167277 
+
+Deep Learning :  58.65079365 
+Precision of Decision Tree  63.38029101 
+
+SVM :  31.84920635 
+Precision of SVM  87.84259259 
+
+NAive Bayes :  77.14285714 
+Precision of Naive Bayes  77.64173789 
+
+Logistic Regression : 93.27777778 
+Precision of Logistic Regression  1.073694546 
+
+KNN:  97.77777778 
+Precision of KNN  91.21438746 
+
+Bagging :  79.94444444 
+Precision of Bagging  38.90779591 
+
+Random Forest :  91.38095238 
+Precision of Random Forest  92.31481481 
+
+Ada Boost Model : 97.20634921 
+Precision of AdaBoost Model  94.50925926 
+
+Gradient Boosting Model :  70.42857143 
+Precision of Gradient Boost  90.53240741 

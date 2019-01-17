@@ -1,0 +1,38 @@
+::::::::::::::::::: Average Accuracies :::::::::::::::::::: 
+Decision Tree :  92.6027 
+Precision of Decision Tree  88.06 
+
+Perceptron :  61.19 
+precision of PErceptron  31.009
+
+NEural NEt :  62.032 
+Precision of Neural Net  31.36 
+
+Deep Learning :  55.98 
+Precision of Decision Tree  38.14 
+
+SVM :  30.856
+Precision of SVM  81.09 
+
+NAive Bayes :  73.16 
+Precision of Naive Bayes  78.6109 
+
+Logistic Regression : 91.2038 
+Precision of Logistic Regression  10.07 
+
+KNN:  96.92857143 
+Precision of KNN  87.002
+
+Bagging :  80.21428571 
+Precision of Bagging  32.2503885 
+
+Random Forest :  91.1031746 
+Precision of Random Forest  92.03703704 
+
+Ada Boost Model : 96.36507937 
+Precision of AdaBoost Model  95.14814815 
+
+Gradient Boosting Model :  56.54761905 
+Precision of Gradient Boost  119.0833333 
+
+> 
